@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Practice Testing Suite" duration-ms="71499" started-at="2019-10-01T00:29:16Z" finished-at="2019-10-01T00:30:28Z">
+    <groups>
+    </groups>
+    <test name="Automation Practice Test Cases" duration-ms="71499" started-at="2019-10-01T00:29:16Z" finished-at="2019-10-01T00:30:28Z">
+      <class name="com.ap.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="setUp" is-config="true" duration-ms="19633" started-at="2019-09-30T20:29:20Z" finished-at="2019-09-30T20:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Firmex_Login(java.lang.String, java.lang.String)[pri:1, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="Firmex_Login" duration-ms="6121" started-at="2019-09-30T20:29:39Z" data-provider="getAutomationTestData" finished-at="2019-09-30T20:29:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firmex_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="tearDown" is-config="true" duration-ms="709" started-at="2019-09-30T20:29:45Z" finished-at="2019-09-30T20:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="setUp" is-config="true" duration-ms="9002" started-at="2019-09-30T20:29:46Z" finished-at="2019-09-30T20:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Firmex_Login(java.lang.String, java.lang.String)[pri:1, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="Firmex_Login" duration-ms="3375" started-at="2019-09-30T20:29:55Z" data-provider="getAutomationTestData" finished-at="2019-09-30T20:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ababab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firmex_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="tearDown" is-config="true" duration-ms="709" started-at="2019-09-30T20:29:58Z" finished-at="2019-09-30T20:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="setUp" is-config="true" duration-ms="9923" started-at="2019-09-30T20:29:59Z" finished-at="2019-09-30T20:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Firmex_Login(java.lang.String, java.lang.String)[pri:1, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="Firmex_Login" duration-ms="3457" started-at="2019-09-30T20:30:09Z" data-provider="getAutomationTestData" finished-at="2019-09-30T20:30:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[No Data]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firmex_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="tearDown" is-config="true" duration-ms="709" started-at="2019-09-30T20:30:12Z" finished-at="2019-09-30T20:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="setUp" is-config="true" duration-ms="8160" started-at="2019-09-30T20:30:13Z" finished-at="2019-09-30T20:30:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Firmex_Login(java.lang.String, java.lang.String)[pri:1, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="Firmex_Login" duration-ms="5650" started-at="2019-09-30T20:30:21Z" data-provider="getAutomationTestData" finished-at="2019-09-30T20:30:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[No Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firmex_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ap.qa.testcases.HomePageTest@511baa65]" name="tearDown" is-config="true" duration-ms="721" started-at="2019-09-30T20:30:27Z" finished-at="2019-09-30T20:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ap.qa.testcases.HomePageTest -->
+    </test> <!-- Automation Practice Test Cases -->
+  </suite> <!-- Automation Practice Testing Suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Practice Testing Suite">
+
+<listeners>
+		<listener class-name="com.ap.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="Automation Practice Test Cases">
+		<classes>
+			<class name="com.ap.qa.testcases.HomePageTest"></class>
+			<!-- <class name="com.ap.qa.testcases.LoginPageMyStore"></class> -->
+		</classes>
+	</test>
+</suite>
